@@ -1,0 +1,102 @@
+Clase Espejo:
+
+Edad:
+1 17 a 20 años
+2 21 a 25 años
+3 mayores de 25
+
+Genero:
+1 hombres
+2 mujeres
+
+Semestre:
+5
+7
+9
+10
+
+Padres:
+0 no
+1 si
+
+PEDA1: Sistemas de puntos o creditos por participación
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+PEDA5:Profesores trabajos colaborativos
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+PEDA6:Adaptación de materiales y actividades
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+PEDA8:
+¿Los profesores  explican con claridad las actividades que deben realizar los estudiantes?
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+PEDA9:
+¿Los profesores  genera instancias para que entre todos/as resolvamos las dudas que surgen durante la clase espejo?
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+PEDA12:
+En la clase espejo  podemos compartir nuestras experiencias y conocer a nuestros  compañeros
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+PEDA13: Se entiende con facilidad lo que el profesor expresa
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+PEDA14:
+¿Los profesores realiza actividades donde los/as estudiantes que poseen más dominio acerca de algún contenido pueden ayudar a quienes aún no lo han desarrollado?
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+PEDA15:
+ ¿Los profesores  utilizan diversos recursos para apoyar nuestro aprendizaje?
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+PEDA16:
+¿Los profesores disponen de un medio para comunicarnos con él/ella (web,mail, facebook, foro,etc.)?
+0 nunca
+1 casi nunca
+2 algunas veces
+3 casi siempre
+4 siempre
+
+Logro :
+
+Se cumple Aceptable     0
+Se cumple Alto Grado    1
+Se cumple Bajo Grado    2
